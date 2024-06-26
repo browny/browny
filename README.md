@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/brownylin" target="blank"><img src="https://img.shields.io/twitter/follow/brownylin?logo=twitter&style=for-the-badge" alt="brownylin" /></a> </p>
 
 - 🔭 I’m currently working on [iKala Cloud](https://ikala.cloud/)
-- ✍️ I'm writting at [substack](https://brownylin.substack.com)
+- ✍️ I'm writting at [informalwriting.cc](https://informalwriting.cc)
 - 🌱 I’m currently learning **Python, Surfing**
 - 💬 Ask me about **system architecture, cloud (GCP, AWS, etc...)**
 - 📄 Know about my experiences [https://www.linkedin.com/in/brownylin/details/experience/](https://www.linkedin.com/in/brownylin/details/experience/)
